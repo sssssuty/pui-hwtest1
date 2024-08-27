@@ -1,5 +1,4 @@
 # PUI:E homework
 
-Deployed website: add the URL to your deployed website
-
-Repository link: add the URL to this repository
+Deployed website: https://interactive-structures.org/pui-homework-template-advanced/
+Repository link: https://github.com/CMU-PUI-2024/pui-homework-template-advanced”
